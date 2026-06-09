@@ -9,8 +9,8 @@ npm install express axios
 # ติดตั้ง TypeScript และ Type definitions
 npm install typescript @types/node @types/express ts-node --save-dev
 
-3.**สร้างไฟล์คอนฟิก TypeScript**:
+3.**สร้างไฟล์คอนฟิก TypeScript**
 npx tsc --init
 
-4. รันคำสั่งใน Terminal:
+4. รันคำสั่งใน Terminal
 npx ts-node server.ts
